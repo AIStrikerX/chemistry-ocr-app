@@ -5,3 +5,4 @@ pillow
 python-docx
 numpy
 google-generativeai
+huggingface-hub>=1.0.0
